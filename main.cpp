@@ -6,7 +6,7 @@ int main()
     int n;
     int s1 ,s2;
     multiset<pair<int,int>> st;
-    cin>>n;
+    cin>>n;   // input
     for( int i = 0 ; i < n ; i++  )
     {
         cin>>s1>>s2;
